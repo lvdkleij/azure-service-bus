@@ -1,4 +1,4 @@
-package eu.roodbaard.springbootprojects.azureservicebus
+package eu.roodbaard.azureservicebus
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
