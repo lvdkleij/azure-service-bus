@@ -1,5 +1,5 @@
 name: Continuous Integration
-run-name: Continous integration
+run-name: Continuous integration
 on:
   push:
     branches:
